@@ -1,0 +1,45 @@
+### 2/25/25
+Work on custom keyboard because React Native doesn't support a keyboard that can be rotated 180' and show up on the opposite end on the screen.
+Hooking it up to the LP display.
+Start on implementing dice roll
+![2-25-25-1](https://github.com/Mr-Ming/TcgCalculatorApp/blob/main/assets/2-25-25-1.png)
+![2-25-25-2](https://github.com/Mr-Ming/TcgCalculatorApp/blob/main/assets/2-25-25-2.png)
+
+### 2/24/25
+Refactoring naming convention for all constants.
+Change the button-style functionality of YG Calc to toggle-style to save space and add more options.
+![2-24-25](https://github.com/Mr-Ming/TcgCalculatorApp/blob/main/assets/2-24-25.png)
+
+### 2/23/25
+Setup and ran eslint prettier.
+Finished the wishlist page.
+Created the Report Bug page.
+Created the Donation page.
+Created the Supporter page.
+Added numerous feature for YG Type.
+![2-23-25](https://github.com/Mr-Ming/TcgCalculatorApp/blob/main/assets/2-23-25-1.png)
+![2-23-25](https://github.com/Mr-Ming/TcgCalculatorApp/blob/main/assets/2-23-25-2.png)
+![2-23-25](https://github.com/Mr-Ming/TcgCalculatorApp/blob/main/assets/2-23-25-4.png)
+
+### 2/22/25
+Started working on the wishlist page.
+![2-21-25](https://github.com/Mr-Ming/TcgCalculatorApp/blob/main/assets/2-22-25.png)
+
+### 2/21/25
+Started working on the first calculator, type YG.
+Most specifically on the middle container with the (back to main menu button) + Start/Stop Timer + New Game Icon.
+Learned about Icon Integration.
+![2-21-25](https://github.com/Mr-Ming/TcgCalculatorApp/blob/main/assets/2-21-25.png)
+
+### 2/20/25
+Started building out the main page.
+Learned how to build navigation route to navigate between pages.
+Learned how to create gradient.
+![2-20-25](https://github.com/Mr-Ming/TcgCalculatorApp/blob/main/assets/2-20-25.png)
+
+### 1/24/25 - 2/19/25
+Started Initial Development.
+Setting up Expos and Working off from that template.
+Taking breaks in between while searching for a new job.
+Learning Expos and React Native from the grounds up.
+Learned how to incorporate Heptic Feedback.
